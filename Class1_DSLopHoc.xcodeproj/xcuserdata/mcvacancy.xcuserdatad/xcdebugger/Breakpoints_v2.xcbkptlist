@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "7000749B-BEE2-4DFE-AD22-688D219441B1"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F7FCD2C5-6524-4E82-ABCA-60E1619FFE96"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Class1_DSLopHoc/classCourse.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "Course"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "F7FCD2C5-6524-4E82-ABCA-60E1619FFE96 - 9608b53792c71dfd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Class1_DSLopHoc.Course.__allocating_init(cName: Swift.String, cTeacher: Swift.String) -&gt; Class1_DSLopHoc.Course"
+                  moduleName = "Class1_DSLopHoc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mcvacancy/Desktop/Class1_DSLopHoc/Class1_DSLopHoc/classCourse.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "25">
+               </Location>
+               <Location
+                  uuid = "F7FCD2C5-6524-4E82-ABCA-60E1619FFE96 - e65cfaeccae0ef2e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Class1_DSLopHoc.Course.init(cName: Swift.String, cTeacher: Swift.String) -&gt; Class1_DSLopHoc.Course"
+                  moduleName = "Class1_DSLopHoc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mcvacancy/Desktop/Class1_DSLopHoc/Class1_DSLopHoc/classCourse.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "59">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "20DC5C3E-A88A-46A3-817A-F5C4DFA81417"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Class1_DSLopHoc/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F0F16B3F-63F3-4398-8076-AE03C50A425A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Class1_DSLopHoc/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
